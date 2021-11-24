@@ -1,5 +1,7 @@
 id: P000515
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG18130
   title: བསླབ་པ་ཀུན་ལས་བཏུས་པའི་ཚིག་ལེའུར་བྱས་པ།
@@ -11,10 +13,3 @@ source_metadata:
         byas pa/
       volume_number: 1
       total_pages: 296
-ebook_metadata:
-  title: བསླབ་པ་ཀུན་ལས་བཏུས་པའི་ཚིག་ལེའུར་བྱས་པ།
-  author: ''
-  sku: P000515
-  cover: cover.jpg
-  layers:
-  - pagination
